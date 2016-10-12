@@ -5,33 +5,29 @@ permalink: /projects/
 ---
 
 Here are some of my notable projects. For everything else, take a look at my
-[github account](https://github.com/dwysocki/).
+[github account](https://github.com/Sdspier/).
 
 # Current
 
-- [plotypus](https://astroswego.github.io/plotypus/)
-    - a Python library and command line tool for analyzing the light curves of
-      variable stars
+- [PROJECT](https://LINK)
+    - DESCRIPTION
 
-- [Hidden Markov Music](https://github.com/dwysocki/hidden-markov-music)
-    - a machine-learning music composition program, which learns from an input
-      song and uses it to compose new music
+- [PROJECT](https://LINK)
+    - DESCRIPTION
 
-- [rakushki](https://ironkladd.github.io/rakushki/index.html)
-    - a collection of several variants of the classic "connect 3" game, Shariki
+- [PROJECT](https://LINK)
+    - DESCRIPTION
 
-- [Leavitt](https://github.com/astroswego/leavitt)
-    - a command line utility for fitting Leavitt's law and its variants, for
-      determining the distances to variable stars
+- [PROJECT](https://LINK)
+    - DESCRIPTION
 
 
 # Past
 
-- [mini-java](https://github.com/dwysocki/mini-java)
+- [Parsing](https://github.com/Sdpier/Parsing)
     - a working compiler for
       [MiniJava](http://www.cambridge.org/us/features/052182060X/) written in
-      [Clojure](http://clojure.org/)
+      [Java](http://docs.oracle.com/javase/7/docs/technotes/guides/language/)
 
-- [Cepheid Visualization](https://github.com/astroswego/cepheid-visualization)
-    - a tool which takes actual observations of a Cepheid variable star, and
-      creates an animation to visualize the star's brightness over time
+- [MiniJavaTests](https://github.com/Sdspier/MiniJavaTest)
+    - DESCRIPTION
