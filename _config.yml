@@ -1,0 +1,10 @@
+# Site settings
+title: "Daniel Wysocki"
+email: dwysocki@oswego.edu
+url: "http://dwysocki.github.io/"
+github_username: dwysocki
+
+# Build settings
+markdown: kramdown
+
+exclude: [ "_site" ]
