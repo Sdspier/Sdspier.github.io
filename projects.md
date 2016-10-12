@@ -9,25 +9,17 @@ Here are some of my notable projects. For everything else, take a look at my
 
 # Current
 
-- [PROJECT](https://LINK)
-    - DESCRIPTION
+- [Parsing](https://github.com/Sdspier/Parsing)
+    - Basic Lexicon and Parser exercise for Compiler Design course CSC 444 
 
-- [PROJECT](https://LINK)
-    - DESCRIPTION
+- [MiniJava Parser](https://github.com/Sdspier/MiniJavaParser)
+    - A parser for a version of [MiniJava](http://www.cambridge.org/resources/052182060X/) 
+	  with a syntax addition of [ENUMs](https://docs.oracle.com/javase/tutorial/java/javaOO/enum.html). 
+	  Written in [Java](http://docs.oracle.com/javase/7/docs/technotes/guides/language/).
 
-- [PROJECT](https://LINK)
-    - DESCRIPTION
 
-- [PROJECT](https://LINK)
-    - DESCRIPTION
 
 
 # Past
 
-- [Parsing](https://github.com/Sdpier/Parsing)
-    - a working compiler for
-      [MiniJava](http://www.cambridge.org/us/features/052182060X/) written in
-      [Java](http://docs.oracle.com/javase/7/docs/technotes/guides/language/)
 
-- [MiniJavaTests](https://github.com/Sdspier/MiniJavaTest)
-    - DESCRIPTION

@@ -6,16 +6,6 @@ permalink: /courses/
 
 Course webpages and notes.
 
-# SUNY Oswego
-
-## Computer Science/Software Engineering
-
-- [CSC 212](LINK)
-- [CSC 212](LINK)
-- [CSC 212](LINK)
-- [CSC 212](LINK)
-- [CSC 212](LINK)
-
 
 # SUNY Oswego
 
@@ -25,13 +15,15 @@ Course webpages and notes.
     LINK)
 - [CSC365: Data Structures and File Processing](
     LINK)
+- [CSC375: Parallel Programming](
+    LINK)
 - [CSC380: Software Engineering](
     LINK)
 - [CSC444: Compiler](
     LINK)
+- [CSC445: Network Systems](
+    LINK)
+- [CSC480: Software Design](
+    LINK)
 
-## Mathematics
-
-- [MAT215: Discrete Mathematics](
-    {{ site.baseurl }}/doc/notes/)
 
