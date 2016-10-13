@@ -10,7 +10,7 @@ Here are some of my notable projects. For everything else, take a look at my
 ## Current
 
 - [Parsing](https://github.com/Sdspier/Parsing)
-    - Basic Lexicon and Parser exercise for Compiler Design course in [Java](http://docs.oracle.com/javase/7/docs/technotes/guides/language/).
+    - Basic lexxer and parser exercise for a Compiler Design course in [Java](http://docs.oracle.com/javase/7/docs/technotes/guides/language/).
 
 - [MiniJava Parser](https://github.com/Sdspier/MiniJavaParser)
     - A parser for a version of [MiniJava](http://www.cambridge.org/resources/052182060X/) 
