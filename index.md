@@ -8,7 +8,9 @@ layout: page
 
 
 
-I will be graduating from [SUNY Oswego](http://www.oswego.edu), with my B.S. in Software Engineering. I recently worked on a research project under the advisement of [Bastian Tenbergen](http://bastian.tenbergen.org), involving the development of a [Traffic Collision Avoidance System](https://en.wikipedia.org/wiki/Traffic_collision_avoidance_system), and am currently continuing this project as part of my senior capstone course. ([Project Paper](http://Sdspier.github.io/Documents/sspierXPlaneReport.pdf))
+I am a senior Software Engineering student at [SUNY Oswego](http://www.oswego.edu), and I'll be graduating this December with my B.S. in Software Engineering. This degree will be adding on to a previous B.A. in Applied Mathematics from [The University of Vermont](www.uvm.edu). 
 
-In the summer of 2015, I interned at [BAE Systems](https://en.wikipedia.org/wiki/BAE_Systems_Inc.), where I was tasked with converted existing mathematical functions in the project's baseline from MATLAB to C and C++ by using existing sources and writing new functions. I was able to contribute more portable and reusable code for future use, and by other teams.
+Most recently I have been working on a research project under the advisement of [Bastian Tenbergen](http://bastian.tenbergen.org), involving the development of a [Traffic Collision Avoidance System](https://en.wikipedia.org/wiki/Traffic_collision_avoidance_system). This project has been adapted to be part of my senior capstone course, which will culminate this December.([Project Paper](http://Sdspier.github.io/Documents/sspierXPlaneReport.pdf))
+
+In the summers of 2015 and 2016, I interned at [BAE Systems](https://en.wikipedia.org/wiki/BAE_Systems_Inc.) Electronics Systems division, where I was tasked with converting existing mathematical functions in the project's baseline from MATLAB to C and C++, and updating legacy software algorithms used in radio frequency and geo-location applications.
 
