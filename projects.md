@@ -10,7 +10,7 @@ Here are some of my notable projects. For everything else, take a look at my
 ## Current
 
 - [Parsing](https://github.com/Sdspier/Parsing)
-    - Basic Lexicon and Parser exercise for Compiler Design course CSC 444 in [Java](http://docs.oracle.com/javase/7/docs/technotes/guides/language/).
+    - Basic Lexicon and Parser exercise for Compiler Design course in [Java](http://docs.oracle.com/javase/7/docs/technotes/guides/language/).
 
 - [MiniJava Parser](https://github.com/Sdspier/MiniJavaParser)
     - A parser for a version of [MiniJava](http://www.cambridge.org/resources/052182060X/) 
@@ -22,7 +22,7 @@ Here are some of my notable projects. For everything else, take a look at my
 ## Past
 
 - [Distributed Cluster Consensus](https://github.com/Sdspier/DistributedCluster)
-	- Distributed Cluster Consensus via the [Atomix](https://github.com/atomix) framework Raft implementation in [Java](http://docs.oracle.com/javase/7/docs/technotes/guides/language/).
+	- Distributed cluster text application with consensus via the [Atomix](https://github.com/atomix) framework Raft implementation in [Java](http://docs.oracle.com/javase/7/docs/technotes/guides/language/).
 
 - [Classic B Tree](https://github.com/Sdspier/BTreeApp)
-	- A persistently stored BTree implemented in [Java](http://docs.oracle.com/javase/7/docs/technotes/guides/language/) to store scraped web-page data for recursive lookups.
+	- A persistently stored [BTree](https://en.wikipedia.org/wiki/B-tree) implemented in [Java](http://docs.oracle.com/javase/7/docs/technotes/guides/language/) to store scraped web-page data for recursive lookups.
