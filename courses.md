@@ -4,12 +4,10 @@ title: "Courses"
 permalink: /courses/
 ---
 
-Course webpages and notes.
-
 
 # SUNY Oswego
 
-## Computer Science
+### Computer Science
 
 - CSC344: Programming Languages
 - CSC365: Data Structures and File Processing
@@ -21,7 +19,7 @@ Course webpages and notes.
 
 # University of Vermont
 
-## Mathematics
+### Mathematics
 
 - Calculus I, II, III
 - Linear Algebra
