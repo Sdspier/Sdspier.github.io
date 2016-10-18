@@ -14,3 +14,5 @@ Most recently I have been working on a research project under the advisement of 
 
 In the summers of 2015 and 2016, I interned at [BAE Systems](https://en.wikipedia.org/wiki/BAE_Systems_Inc.) Electronics Systems division, where I was tasked with converting existing mathematical functions in the project's baseline from MATLAB to C and C++, and updating legacy software algorithms used in radio frequency and geo-location applications.
 
+[linkedIN](https://www.linkedin.com/in/sspier)
+
