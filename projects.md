@@ -16,7 +16,7 @@ Here are some of my notable projects. For everything else, take a look at my
     - A parser for a version of [MiniJava](http://www.cambridge.org/resources/052182060X/) 
 	  with a syntax addition of [ENUMs](https://docs.oracle.com/javase/tutorial/java/javaOO/enum.html). 
 	  Written in [Java](http://docs.oracle.com/javase/7/docs/technotes/guides/language/).
-	-Currently under construction
+	- Currently under construction
 
 
 
